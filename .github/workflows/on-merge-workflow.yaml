@@ -25,6 +25,6 @@ jobs:
         uses: jctaveras/heroku-deploy@v1.0.0  
         with:
           email: roniana11@gmail.com
-          api_key: secrets.API-
+          api_key: secrets.API-KEY
           app_name: secrets.USER
           dockerfile_path: '..'
