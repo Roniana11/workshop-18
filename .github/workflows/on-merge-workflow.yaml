@@ -1,6 +1,4 @@
-# Trigger on push to master (+ allow manual runs of this workflow)
-# First job: identical steps to PR workflow
-# Second job: Deploy to Heroku
+
 
 name: on-merge-workflow
 
